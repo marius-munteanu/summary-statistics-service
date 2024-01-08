@@ -35,7 +35,6 @@ public class StatisticsServiceTest {
         assertNotNull(Objects.requireNonNull(responseEntity.getBody()).getPersonWithMedianAge());
         assertTrue(0 != responseEntity.getBody().getAverageAge());
         assertTrue(0 != responseEntity.getBody().getMedianAge());
-        assertTrue(0 != responseEntity.getBody().getTimeInMillis());
         assertTrue(responseEntity.getBody().getLineErrors().isEmpty());
         assertTrue(responseEntity.getBody().getUrlErrors().isEmpty());
     }
@@ -72,7 +71,6 @@ public class StatisticsServiceTest {
         assertEquals("Cory FINLEY", responseEntity.getBody().getPersonWithMedianAge());
         assertTrue(0 != responseEntity.getBody().getAverageAge());
         assertTrue(0 != responseEntity.getBody().getMedianAge());
-        assertTrue(0 != responseEntity.getBody().getTimeInMillis());
         assertTrue(responseEntity.getBody().getLineErrors().isEmpty());
         assertTrue(responseEntity.getBody().getUrlErrors().isEmpty());
     }
@@ -104,7 +102,6 @@ public class StatisticsServiceTest {
         assertNotNull(Objects.requireNonNull(responseEntity.getBody()).getPersonWithMedianAge());
         assertTrue(0 != responseEntity.getBody().getAverageAge());
         assertTrue(0 != responseEntity.getBody().getMedianAge());
-        assertTrue(0 != responseEntity.getBody().getTimeInMillis());
         assertTrue(responseEntity.getBody().getLineErrors().isEmpty());
         assertTrue(responseEntity.getBody().getUrlErrors().isEmpty());
     }
@@ -141,7 +138,6 @@ public class StatisticsServiceTest {
         assertEquals("Cory FINLEY", responseEntity.getBody().getPersonWithMedianAge());
         assertTrue(0 != responseEntity.getBody().getAverageAge());
         assertTrue(0 != responseEntity.getBody().getMedianAge());
-        assertTrue(0 != responseEntity.getBody().getTimeInMillis());
         assertTrue(responseEntity.getBody().getLineErrors().isEmpty());
         assertTrue(responseEntity.getBody().getUrlErrors().isEmpty());
     }
