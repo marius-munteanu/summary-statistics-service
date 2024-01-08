@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/marius-munteanu/summary-statistics-service/testingfiles/CSVs/10_records.csv
+https://raw.githubusercontent.com/marius-munteanu/summary-statistics-service/testingfiles/CSVs/10_records.csv
+https://raw.githubusercontent.com/marius-munteanu/summary-statistics-service/testingfiles/CSVs/10_records.csv
+https://raw.githubusercontent.com/marius-munteanu/summary-statistics-service/testingfiles/CSVs/10_records.csv
+https://raw.githubusercontent.com/marius-munteanu/summary-statistics-service/testingfiles/CSVs/10_records.csv
+https://raw.githubusercontent.com/marius-munteanu/summary-statistics-service/testingfiles/CSVs/10_records.csv
+https://raw.githubusercontent.com/marius-munteanu/summary-statistics-service/testingfiles/CSVs/10_records.csv
+https://raw.githubusercontent.com/marius-munteanu/summary-statistics-service/testingfiles/CSVs/10_records.csv
+https://raw.githubusercontent.com/marius-munteanu/summary-statistics-service/testingfiles/CSVs/10_records.csv

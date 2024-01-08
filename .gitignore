@@ -1,0 +1,12 @@
+target/
+traces/
+
+.idea
+*.iws
+*.iml
+*.ipr
+
+/.idea/
+.DS.Store
+/.ideaDataSources/
+/dataSources/
